@@ -1,6 +1,6 @@
-# [swiftweekly.github.io](https://swiftweekly.github.io) [![Build Status](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io.svg?branch=master)](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io)
+# [SwiftWeekly 中文](https://swiftweekly.github.io) [![Build Status](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io.svg?branch=master)](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io)
 
-*A community-driven weekly newsletter about [Swift.org](https://swift.org)*
+*一个关注 [Swift.org](https://swift.org) 动态，由社区驱动的每周时事通讯*
 
 > Curated by [@jesse_squires](https://twitter.com/jesse_squires) and [@BasThomas](https://twitter.com/BasThomas). 
 
@@ -23,8 +23,8 @@ There are a number of [contributing authors](https://swiftweekly.github.io/autho
 You'll need [bundler](http://bundler.io) installed.
 
 ```bash
-$ git clone https://github.com/SwiftWeekly/swiftweekly.github.io.git
-$ cd swiftweekly.github.io/
+$ git clone https://github.com/SwiftWeekly/cn.git
+$ cd cn/
 $ bundle install
 ```
 
