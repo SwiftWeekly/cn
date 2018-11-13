@@ -12,6 +12,12 @@ body p {
    font-size: 16px;
 }
 
+body li {
+   line-height: 2.7rem;
+   padding: 0.5rem 0rem 0.5rem 0rem;
+   font-size: 16px;
+}
+
 hr {
    border-color: #d7d7d7;
    width: 50%;
