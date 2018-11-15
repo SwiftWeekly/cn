@@ -14,8 +14,9 @@ permalink: /:title/
 # Site
 title: 'Swift Weekly Brief'
 description: 'A community-driven weekly newsletter about Swift.org'
-
 logo: /img/logo.png
+
+repo_name: cn
 
 twitter:
     username: swiftlybrief
