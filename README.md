@@ -1,4 +1,4 @@
-# [SwiftWeekly 中文](https://swiftweekly.github.io) [![Build Status](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io.svg?branch=master)](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io)
+# [SwiftWeekly 中文](https://swiftweekly.github.io/cn) [![Build Status](https://travis-ci.org/SwiftWeekly/cn.svg?branch=master)](https://travis-ci.org/SwiftWeekly/cn)
 
 *一个关注 [Swift.org](https://swift.org) 动态，由社区驱动的每周时事通讯*
 

@@ -6,7 +6,7 @@ plugins:
     - jekyll-sitemap
 
 # File rules
-exclude: [vendor, Dangerfile, Gemfile, Gemfile.lock, LICENSE, README.md, CODE_OF_CONDUCT.md, CONTRIBUTING.md, new_draft.sh]
+exclude: [vendor, Dangerfile, Gemfile, Gemfile.lock, LICENSE, README.md, CODE_OF_CONDUCT.md, CONTRIBUTING.md, new_draft.sh, github_issue_generator.rb]
 
 # Permalinks
 permalink: /:title/
@@ -27,7 +27,7 @@ excerpt_separator: <!--excerpt-->
 links:
     rss: '/feed.xml'
     twitter: 'https://twitter.com/swiftlybrief'
-    github: 'https://github.com/SwiftWeekly/swiftweekly.github.io'
-    issue: 'https://github.com/SwiftWeekly/swiftweekly.github.io/issues/new'
-    pull: 'https://github.com/SwiftWeekly/swiftweekly.github.io/compare'
+    github: 'https://github.com/SwiftWeekly/cn'
+    issue: 'https://github.com/SwiftWeekly/cn/issues/new'
+    pull: 'https://github.com/SwiftWeekly/cn/compare'
     applenews: 'https://apple.news/TIlGIYluMTGWA-CIToVtF4Q'
