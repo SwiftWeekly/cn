@@ -13,7 +13,7 @@ permalink: /:title/
 
 # Site
 title: 'Swift Weekly Brief'
-description: 'A community-driven weekly newsletter about Swift.org'
+description: '一个关注 Swift.org 动态，由社区驱动的每周时事通讯'
 logo: /img/logo.png
 
 repo_name: cn
