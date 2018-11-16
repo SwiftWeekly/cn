@@ -26,7 +26,7 @@ excerpt_separator: <!--excerpt-->
 
 # Data
 links:
-    rss: '/feed.xml'
+    rss: '/cn/feed.xml'
     twitter: 'https://twitter.com/swiftlybrief'
     github: 'https://github.com/SwiftWeekly/cn'
     issue: 'https://github.com/SwiftWeekly/cn/issues/new'
