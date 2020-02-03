@@ -8,13 +8,7 @@
 
 ## About
 
-This newsletter was originally started by [Jesse Squires](https://github.com/jessesquires), and hosted on his blog at [jessesquires.com](http://www.jessesquires.com). After issue #4, this site was created to provide the newsletter with a proper, dedicated home. All previous issues were [migrated](http://www.jessesquires.com/new-weekly-brief/), and it is now completely open for the community. Currently, [Bas Broek](https://github.com/BasThomas) is leading the project. Contributions are welcomed and encouraged!
-
-Lovingly built with [Jekyll](https://jekyllrb.com), [Bootstrap](https://getbootstrap.com), [jQuery](https://jquery.com), and [Font Awesome](https://fortawesome.github.io/Font-Awesome/). Generously hosted by [GitHub](https://pages.github.com).
-
-## Authors
-
-There are a number of [contributing authors](https://swiftweekly.github.io/authors/) to the newsletter. If you'd like to join, open an issue to discuss!
+See the [main repo](https://github.com/SwiftWeekly/swiftweekly.github.io) for details.
 
 ## Usage
 
@@ -50,11 +44,11 @@ $ bundle exec jekyll serve --future --drafts --watch
 
 ## Contributing
 
-To contribute, please read our [Contributing Guide](https://github.com/SwiftWeekly/swiftweekly.github.io/blob/master/CONTRIBUTING.md).
+To contribute, please read our [Contributing Guide](https://github.com/SwiftWeekly/.github/blob/master/CONTRIBUTING.md).
 
 ## Conduct
 
-Please read our [Code of Conduct](https://github.com/SwiftWeekly/swiftweekly.github.io/blob/master/CODE_OF_CONDUCT.md). Violations will not be tolerated and will result in immediate removal or blocking from the organization.
+Please read our [Code of Conduct](https://github.com/SwiftWeekly/.github/blob/master/CODE_OF_CONDUCT.md). Violations will not be tolerated and will result in immediate removal or blocking from the organization.
 
 ## License
 
